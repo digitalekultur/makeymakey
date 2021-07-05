@@ -23,8 +23,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Makey Makey Quickstart Guide](https://learn.sparkfun.com/tutorials/makey-makey-quickstart-guide)** - Basic hookup guide for the Makey Makey.
-* **[Makey Makey Advanced Guide](https://learn.sparkfun.com/tutorials/makey-makey-advanced-guide)** - Advanced hookup guide for the Makey Makey.
+* **[Makey Makey Quickstart Guide](./guide_start.pdf)** - Basic hookup guide for the Makey Makey.
+* **[Makey Makey Advanced Guide](./guide_advanced.pdf)** - Advanced hookup guide for the Makey Makey.
 
 Product Versions
 ----------------
